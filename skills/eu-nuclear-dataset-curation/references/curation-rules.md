@@ -21,7 +21,7 @@ Allowed `primaryStatus` values:
 3. `phase-out completed`
 4. `nuclear ban reconsidered`
 5. `phase-out reverted`
-6. `pro-nuclear policy`
+6. `nuclear expansion policy`
 7. `building new reactors`
 
 ## Status Precedence
@@ -29,7 +29,7 @@ Allowed `primaryStatus` values:
 When more than one label could apply, resolve to the strongest signal in this order:
 
 1. `building new reactors`
-2. `pro-nuclear policy`
+2. `nuclear expansion policy`
 3. `phase-out reverted`
 4. `nuclear ban reconsidered`
 5. `phase-out in progress`
@@ -39,7 +39,7 @@ When more than one label could apply, resolve to the strongest signal in this or
 Interpretation:
 
 - `building new reactors`: active construction or a dataset decision that construction dominance should win
-- `pro-nuclear policy`: credible entry, re-entry, expansion, or explicit pro-nuclear alignment without active construction
+- `nuclear expansion policy`: credible entry, re-entry, expansion, or explicit pro-nuclear alignment without active construction
 - `phase-out reverted`: a prior exit policy has been materially reversed
 - `nuclear ban reconsidered`: an anti-nuclear or anti-reactor stance is being officially re-opened, but not yet clearly reversed
 - `phase-out in progress`: reactors still operate under an active closure path
@@ -57,7 +57,7 @@ Current mapping:
 - `phase-out completed` = brown
 - `nuclear ban reconsidered` = orange
 - `phase-out reverted` = yellow
-- `pro-nuclear policy` = light green
+- `nuclear expansion policy` = light green
 - `building new reactors` = dark green
 
 ## Source Hierarchy
@@ -99,27 +99,27 @@ Use these conventions unless the user explicitly overrides them:
 - Countries with reactors still operating under a scheduled closure path belong in `phase-out in progress`.
 - Countries officially reviewing or reopening an anti-nuclear stance belong in `nuclear ban reconsidered`.
 - Countries that clearly reversed a former phase-out line belong in `phase-out reverted`.
-- Countries with credible new-build, re-entry, expansion, or clear pro-nuclear alignment but no active construction belong in `pro-nuclear policy`.
+- Countries with credible new-build, re-entry, expansion, or clear pro-nuclear alignment but no active construction belong in `nuclear expansion policy`.
 - Countries with active construction, or where the maintained taxonomy deliberately treats building as dominant, belong in `building new reactors`.
 
 ## Triple Nuclear Energy Rule
 
-Treat membership in the `Declaration to Triple Nuclear Energy` as a minimum signal for `pro-nuclear policy`.
+Treat membership in the `Declaration to Triple Nuclear Energy` as a minimum signal for `nuclear expansion policy`.
 
 Apply it like this:
 
-- If a country has joined the declaration, it should be classified as at least `pro-nuclear policy`.
+- If a country has joined the declaration, it should be classified as at least `nuclear expansion policy`.
 - If a stronger status already applies under the precedence rules, keep the stronger status.
-- Because `pro-nuclear policy` outranks `phase-out reverted` in this taxonomy, declaration membership can lift a country out of the reversal bucket.
+- Because `nuclear expansion policy` outranks `phase-out reverted` in this taxonomy, declaration membership can lift a country out of the reversal bucket.
 - When this rule is the main reason for the classification, say so explicitly in `detailSummary` or `sources.note`.
 
 ## EU Nuclear Alliance Rule
 
-Treat membership in the `EU Nuclear Alliance` as a minimum signal for `pro-nuclear policy`.
+Treat membership in the `EU Nuclear Alliance` as a minimum signal for `nuclear expansion policy`.
 
 Apply it like this:
 
-- If a country is a member of the EU Nuclear Alliance, it should be classified as at least `pro-nuclear policy`.
+- If a country is a member of the EU Nuclear Alliance, it should be classified as at least `nuclear expansion policy`.
 - If a stronger status already applies under the precedence rules, keep the stronger status.
 - Observer status alone is not the same as full membership.
 - When alliance membership is the main reason for the classification, say so explicitly in `detailSummary` or `sources.note`.

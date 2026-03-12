@@ -53,7 +53,7 @@ Each country object must follow this shape:
   - `phase-out completed`
   - `nuclear ban reconsidered`
   - `phase-out reverted`
-  - `pro-nuclear policy`
+  - `nuclear expansion policy`
   - `building new reactors`
 - `operatingReactors`: integer `>= 0`
 - `reactorsUnderConstruction`: integer `>= 0`
@@ -87,7 +87,7 @@ Each country object must follow this shape:
 If multiple labels could plausibly apply to one country, set `primaryStatus` using this precedence:
 
 1. `building new reactors`
-2. `pro-nuclear policy`
+2. `nuclear expansion policy`
 3. `phase-out reverted`
 4. `nuclear ban reconsidered`
 5. `phase-out in progress`

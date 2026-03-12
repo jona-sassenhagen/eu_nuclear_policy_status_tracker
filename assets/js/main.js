@@ -1,4 +1,4 @@
-const LIGHT_BG_STATUSES = new Set(["phase-out reverted", "pro-nuclear policy"]);
+const LIGHT_BG_STATUSES = new Set(["phase-out reverted", "nuclear expansion policy"]);
 
 const STATUS_COLORS = {
   "no nuclear program": "#4b4f56",
@@ -6,13 +6,13 @@ const STATUS_COLORS = {
   "phase-out completed": "#8a5a2b",
   "nuclear ban reconsidered": "#f07f2f",
   "phase-out reverted": "#d6b93d",
-  "pro-nuclear policy": "#8bcf7a",
+  "nuclear expansion policy": "#8bcf7a",
   "building new reactors": "#2f8f46"
 };
 
 const STATUS_PRIORITY = [
   "building new reactors",
-  "pro-nuclear policy",
+  "nuclear expansion policy",
   "phase-out reverted",
   "nuclear ban reconsidered",
   "phase-out in progress",
@@ -176,8 +176,8 @@ function resolvePrimaryStatus(country) {
   if (signals.buildingNewReactors) {
     return "building new reactors";
   }
-  if (signals.proNuclearPolicy || signals.plannedNewReactors) {
-    return "pro-nuclear policy";
+  if (signals.nuclearExpansionPolicy || signals.proNuclearPolicy || signals.plannedNewReactors) {
+    return "nuclear expansion policy";
   }
   if (signals.phaseOutReverted) {
     return "phase-out reverted";

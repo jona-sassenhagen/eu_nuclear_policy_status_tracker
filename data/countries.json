@@ -22,7 +22,7 @@
     "countryCode": "BE",
     "countryName": "Belgium",
     "flag": "🇧🇪",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 2,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Belgium repealed its long-running phase-out law in May 2025 and joined the Declaration to Triple Nuclear Energy on 2026-03-10, so it is treated as pro-nuclear under this taxonomy.",
@@ -39,14 +39,14 @@
         "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/belgium",
         "publisher": "World Nuclear Association",
         "accessedAt": "2026-03-12",
-        "note": "Supports Belgium's operating fleet, phase-out reversal, and broader pro-nuclear policy shift."
+        "note": "Supports Belgium's operating fleet, phase-out reversal, and broader nuclear expansion policy shift."
       },
       {
         "title": "World Nuclear Association: Four more countries endorse global Declaration to Triple Nuclear Energy",
         "url": "https://world-nuclear.org/news-and-media/press-statements/four-more-countries-endorse-global-declaration-to-triple-nuclear-energy",
         "publisher": "World Nuclear Association",
         "accessedAt": "2026-03-12",
-        "note": "Supports classifying Belgium as at least pro-nuclear policy after it joined the declaration on 2026-03-10."
+        "note": "Supports classifying Belgium as at least nuclear expansion policy after it joined the declaration on 2026-03-10."
       }
     ]
   },
@@ -79,10 +79,10 @@
     "countryCode": "HR",
     "countryName": "Croatia",
     "flag": "🇭🇷",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 0,
     "reactorsUnderConstruction": 0,
-    "detailSummary": "Croatia has no reactor on its own territory but co-owns Krško in Slovenia and remains aligned with regional nuclear expansion discussions, so it is grouped under pro-nuclear policy rather than active construction.",
+    "detailSummary": "Croatia has no reactor on its own territory but co-owns Krško in Slovenia and remains aligned with regional nuclear expansion discussions, so it is grouped under nuclear expansion policy rather than active construction.",
     "latestNews": [
       {
         "title": "Emerging Nuclear Energy Countries",
@@ -123,7 +123,7 @@
     "countryCode": "CZ",
     "countryName": "Czech Republic",
     "flag": "🇨🇿",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 6,
     "reactorsUnderConstruction": 0,
     "detailSummary": "The Czech Republic operates six reactors and signed a June 2025 contract for two new Dukovany units, but PRIS has not yet moved the project into the construction column.",
@@ -180,10 +180,10 @@
     "countryCode": "EE",
     "countryName": "Estonia",
     "flag": "🇪🇪",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 0,
     "reactorsUnderConstruction": 0,
-    "detailSummary": "Estonia has no operating reactors, but it remains one of Europe's most active SMR exploration markets and is grouped under pro-nuclear policy rather than active construction.",
+    "detailSummary": "Estonia has no operating reactors, but it remains one of Europe's most active SMR exploration markets and is grouped under nuclear expansion policy rather than active construction.",
     "latestNews": [
       {
         "title": "Emerging Nuclear Energy Countries",
@@ -205,7 +205,7 @@
     "countryCode": "FI",
     "countryName": "Finland",
     "flag": "🇫🇮",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 5,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Finland operates five reactors and remains structurally pro-nuclear, but no Finnish reactor is currently under construction in PRIS.",
@@ -222,7 +222,7 @@
         "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/finland",
         "publisher": "World Nuclear Association",
         "accessedAt": "2026-03-12",
-        "note": "Supports Finland's current reactor count and continued pro-nuclear policy stance."
+        "note": "Supports Finland's current reactor count and continued nuclear expansion policy stance."
       }
     ]
   },
@@ -343,7 +343,7 @@
     "countryCode": "IT",
     "countryName": "Italy",
     "flag": "🇮🇹",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 0,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Italy completed its nuclear phase-out in 1990, but the Meloni government approved a framework bill in February 2025 to prepare a return via advanced reactors and SMRs and backed the global tripling pledge on 2026-03-10.",
@@ -480,7 +480,7 @@
     "countryCode": "NL",
     "countryName": "Netherlands",
     "flag": "🇳🇱",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 1,
     "reactorsUnderConstruction": 0,
     "detailSummary": "The Netherlands reversed its earlier phase-out direction, plans two new reactors, and is also a signatory to the Declaration to Triple Nuclear Energy.",
@@ -505,7 +505,7 @@
     "countryCode": "PL",
     "countryName": "Poland",
     "flag": "🇵🇱",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 0,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Poland is preparing its first civilian nuclear program even though PRIS still shows zero reactors under construction as of 2026-03-12.",
@@ -556,7 +556,7 @@
     "countryCode": "RO",
     "countryName": "Romania",
     "flag": "🇷🇴",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 2,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Romania operates two CANDU units and is advancing both Cernavoda 3 and 4 and an SMR project, but PRIS does not yet record a Romanian unit under construction.",
@@ -606,7 +606,7 @@
     "countryCode": "SI",
     "countryName": "Slovenia",
     "flag": "🇸🇮",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 1,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Slovenia operates Krško and remains committed to the possible JEK 2 project, but no Slovenian reactor is currently under construction.",
@@ -656,7 +656,7 @@
     "countryCode": "SE",
     "countryName": "Sweden",
     "flag": "🇸🇪",
-    "primaryStatus": "pro-nuclear policy",
+    "primaryStatus": "nuclear expansion policy",
     "operatingReactors": 6,
     "reactorsUnderConstruction": 0,
     "detailSummary": "Sweden's historic phase-out policy was repealed, the current government is explicitly promoting new nuclear capacity, and the country is a signatory to the Declaration to Triple Nuclear Energy.",

@@ -23,7 +23,7 @@ Each item in the top-level JSON array must contain:
 - `phase-out completed`
 - `nuclear ban reconsidered`
 - `phase-out reverted`
-- `pro-nuclear policy`
+- `nuclear expansion policy`
 - `building new reactors`
 
 ## Update Rules For Future Agents
@@ -37,7 +37,7 @@ Each item in the top-level JSON array must contain:
 7. Every `sources` array must contain at least one source object with `title`, `url`, `publisher`, `accessedAt`, and `note`.
 8. `detailSummary` should stay plain-text, short, and explicit about any classification compromise caused by the seven-status taxonomy.
 9. If multiple statuses could apply, resolve `primaryStatus` with this precedence:
-   `building new reactors` > `pro-nuclear policy` > `phase-out reverted` > `nuclear ban reconsidered` > `phase-out in progress` > `phase-out completed` > `no nuclear program`
+   `building new reactors` > `nuclear expansion policy` > `phase-out reverted` > `nuclear ban reconsidered` > `phase-out in progress` > `phase-out completed` > `no nuclear program`
 
 ## Practical Classification Guidance
 
