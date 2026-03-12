@@ -1,0 +1,680 @@
+[
+  {
+    "countryCode": "AT",
+    "countryName": "Austria",
+    "flag": "🇦🇹",
+    "primaryStatus": "phase-out completed",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Austria has no operating reactors and remains firmly anti-nuclear. It is grouped as phase-out completed in this taxonomy because the country has no active nuclear generation and no path back to commercial nuclear power.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Austria does not appear as an operating nuclear country; this supports the zero-reactor count and the anti-nuclear mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "BE",
+    "countryName": "Belgium",
+    "flag": "🇧🇪",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 2,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Belgium repealed its long-running phase-out law in May 2025 and joined the Declaration to Triple Nuclear Energy on 2026-03-10, so it is treated as pro-nuclear under this taxonomy.",
+    "latestNews": [
+      {
+        "title": "Four more countries endorse global Declaration to Triple Nuclear Energy",
+        "url": "https://world-nuclear.org/news-and-media/press-statements/four-more-countries-endorse-global-declaration-to-triple-nuclear-energy",
+        "publishedAt": "2026-03-10"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Belgium",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/belgium",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Belgium's operating fleet, phase-out reversal, and broader pro-nuclear policy shift."
+      },
+      {
+        "title": "World Nuclear Association: Four more countries endorse global Declaration to Triple Nuclear Energy",
+        "url": "https://world-nuclear.org/news-and-media/press-statements/four-more-countries-endorse-global-declaration-to-triple-nuclear-energy",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports classifying Belgium as at least pro-nuclear policy after it joined the declaration on 2026-03-10."
+      }
+    ]
+  },
+  {
+    "countryCode": "BG",
+    "countryName": "Bulgaria",
+    "flag": "🇧🇬",
+    "primaryStatus": "building new reactors",
+    "operatingReactors": 2,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Bulgaria operates two reactors at Kozloduy and continues to pursue new units, but no Bulgarian reactor is currently listed under construction in PRIS.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Bulgaria",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/countries-A-F/Bulgaria",
+        "publishedAt": "2026-01-09"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Bulgaria",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/countries-A-F/Bulgaria",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Bulgaria's operating fleet and ongoing new-build policy direction."
+      }
+    ]
+  },
+  {
+    "countryCode": "HR",
+    "countryName": "Croatia",
+    "flag": "🇭🇷",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Croatia has no reactor on its own territory but co-owns Krško in Slovenia and remains aligned with regional nuclear expansion discussions, so it is grouped under pro-nuclear policy rather than active construction.",
+    "latestNews": [
+      {
+        "title": "Emerging Nuclear Energy Countries",
+        "url": "https://world-nuclear.org/information-library/country-profiles/others/emerging-nuclear-energy-countries",
+        "publishedAt": "2026-03-03"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Emerging Nuclear Energy Countries",
+        "url": "https://world-nuclear.org/information-library/country-profiles/others/emerging-nuclear-energy-countries",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Croatia's regional nuclear interest even though it has no domestic reactor under construction."
+      }
+    ]
+  },
+  {
+    "countryCode": "CY",
+    "countryName": "Cyprus",
+    "flag": "🇨🇾",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Cyprus has never operated a commercial nuclear power program and has no current domestic reactor build path.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Cyprus does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "CZ",
+    "countryName": "Czech Republic",
+    "flag": "🇨🇿",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 6,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "The Czech Republic operates six reactors and signed a June 2025 contract for two new Dukovany units, but PRIS has not yet moved the project into the construction column.",
+    "latestNews": [
+      {
+        "title": "Czechs sign a deal with South Korea to build nuclear reactors after a court clears the way",
+        "url": "https://apnews.com/article/3e411cd3693ee4f0c4ecf4fe1d0f799f",
+        "publishedAt": "2025-06-04"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Associated Press: Czech deal for new reactors",
+        "url": "https://apnews.com/article/3e411cd3693ee4f0c4ecf4fe1d0f799f",
+        "publisher": "Associated Press",
+        "accessedAt": "2026-03-12",
+        "note": "Supports the active new-build classification for the Czech Republic."
+      }
+    ]
+  },
+  {
+    "countryCode": "DK",
+    "countryName": "Denmark",
+    "flag": "🇩🇰",
+    "primaryStatus": "nuclear ban reconsidered",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Denmark has no commercial nuclear power program, but the government is actively re-examining whether the country's anti-nuclear stance should soften for newer reactor technologies.",
+    "latestNews": [
+      {
+        "title": "Minister: Denmark may lift 40-year-old ban on nuclear energy",
+        "url": "https://www.worldenergynews.com/news/minister-denmark-may-lift-year-old-ban-761198",
+        "publishedAt": "2025-05-14"
+      }
+    ],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Denmark does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      },
+      {
+        "title": "Reuters (syndicated): Minister says Denmark may lift nuclear ban",
+        "url": "https://www.worldenergynews.com/news/minister-denmark-may-lift-year-old-ban-761198",
+        "publisher": "Reuters",
+        "accessedAt": "2026-03-12",
+        "note": "Supports classifying Denmark as nuclear ban reconsidered after the government opened a formal review of advanced nuclear options."
+      }
+    ]
+  },
+  {
+    "countryCode": "EE",
+    "countryName": "Estonia",
+    "flag": "🇪🇪",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Estonia has no operating reactors, but it remains one of Europe's most active SMR exploration markets and is grouped under pro-nuclear policy rather than active construction.",
+    "latestNews": [
+      {
+        "title": "Emerging Nuclear Energy Countries",
+        "url": "https://world-nuclear.org/information-library/country-profiles/others/emerging-nuclear-energy-countries",
+        "publishedAt": "2026-03-03"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Emerging Nuclear Energy Countries",
+        "url": "https://world-nuclear.org/information-library/country-profiles/others/emerging-nuclear-energy-countries",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Estonia's active SMR and future nuclear development posture."
+      }
+    ]
+  },
+  {
+    "countryCode": "FI",
+    "countryName": "Finland",
+    "flag": "🇫🇮",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 5,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Finland operates five reactors and remains structurally pro-nuclear, but no Finnish reactor is currently under construction in PRIS.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Finland",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/finland",
+        "publishedAt": "2026-01-05"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Finland",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-a-f/finland",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Finland's current reactor count and continued pro-nuclear policy stance."
+      }
+    ]
+  },
+  {
+    "countryCode": "FR",
+    "countryName": "France",
+    "flag": "🇫🇷",
+    "primaryStatus": "building new reactors",
+    "operatingReactors": 57,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "France runs the EU's largest reactor fleet and is actively building toward a new EPR2 program, so it is grouped under building new reactors in this taxonomy.",
+    "latestNews": [
+      {
+        "title": "France calls for new funding for civil nuclear energy",
+        "url": "https://www.lemonde.fr/en/economy/article/2026/03/10/france-calls-for-new-funding-for-civil-nuclear-energy_6751306_19.html",
+        "publishedAt": "2026-03-10"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in France",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/countries-A-F/France",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports France's operating fleet and announced new-build program."
+      }
+    ]
+  },
+  {
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "flag": "🇩🇪",
+    "primaryStatus": "phase-out completed",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Germany completed its nuclear phase-out on 2023-04-15, when the country's last three commercial reactors shut down.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Germany",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/germany",
+        "publishedAt": "2026-03-06"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Germany",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/germany",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports the completed phase-out status and shutdown timeline."
+      }
+    ]
+  },
+  {
+    "countryCode": "GR",
+    "countryName": "Greece",
+    "flag": "🇬🇷",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Greece has never operated a commercial nuclear power program and has no current domestic reactor plan.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Greece does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "HU",
+    "countryName": "Hungary",
+    "flag": "🇭🇺",
+    "primaryStatus": "building new reactors",
+    "operatingReactors": 4,
+    "reactorsUnderConstruction": 1,
+    "detailSummary": "Hungary operates four reactors and has one reactor under construction at Paks II, making it the clearest literal match for the building-new-reactors bucket.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Hungary",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/hungary",
+        "publishedAt": "2026-02-10"
+      }
+    ],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Under Construction Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Hungary's under-construction reactor count and primary status."
+      }
+    ]
+  },
+  {
+    "countryCode": "IE",
+    "countryName": "Ireland",
+    "flag": "🇮🇪",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Ireland has never operated a commercial nuclear power program and has no current reactor build path.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Ireland does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "IT",
+    "countryName": "Italy",
+    "flag": "🇮🇹",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Italy completed its nuclear phase-out in 1990, but the Meloni government approved a framework bill in February 2025 to prepare a return via advanced reactors and SMRs and backed the global tripling pledge on 2026-03-10.",
+    "latestNews": [
+      {
+        "title": "Westinghouse eyes old nuclear sites to build small reactors in Italy",
+        "url": "https://www.ajot.com/news/westinghouse-eyes-old-nuclear-sites-to-build-small-reactors-in-italy",
+        "publishedAt": "2025-02-04"
+      },
+      {
+        "title": "Four More Countries Join Global Commitment to Triple Nuclear Energy at Paris Summit",
+        "url": "https://world-nuclear.org/net-zero-nuclear/news/four-more-countries-join-global-commitment-to-triple-nuclear-energy-at-paris-summit",
+        "publishedAt": "2026-03-10"
+      },
+      {
+        "title": "Meloni govt approves bill for return to nuclear power",
+        "url": "https://www.ansa.it/english/news/2025/02/28/meloni-govt-approves-bill-for-return-to-nuclear-power_af84b159-7d34-4d4d-a648-46abdb819c48.html",
+        "publishedAt": "2025-02-28"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Italy",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/italy",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Italy's completed phase-out, zero-operating-reactor status, and the government's current re-entry discussion."
+      },
+      {
+        "title": "World Nuclear Association: Four More Countries Join Global Commitment to Triple Nuclear Energy at Paris Summit",
+        "url": "https://world-nuclear.org/net-zero-nuclear/news/four-more-countries-join-global-commitment-to-triple-nuclear-energy-at-paris-summit",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Confirms that Italy publicly endorsed nuclear expansion at the Paris summit on 2026-03-10."
+      },
+      {
+        "title": "Reuters (syndicated): Westinghouse eyes old nuclear sites to build small reactors in Italy",
+        "url": "https://www.ajot.com/news/westinghouse-eyes-old-nuclear-sites-to-build-small-reactors-in-italy",
+        "publisher": "Reuters",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Italy's active re-entry discussion and industry planning around advanced reactors and SMRs."
+      }
+    ]
+  },
+  {
+    "countryCode": "LV",
+    "countryName": "Latvia",
+    "flag": "🇱🇻",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Latvia has never operated a commercial nuclear power program and does not currently have a domestic reactor build plan.",
+    "latestNews": [
+      {
+        "title": "Emerging Nuclear Energy Countries",
+        "url": "https://world-nuclear.org/information-library/country-profiles/others/emerging-nuclear-energy-countries",
+        "publishedAt": "2026-03-03"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Emerging Nuclear Energy Countries",
+        "url": "https://world-nuclear.org/information-library/country-profiles/others/emerging-nuclear-energy-countries",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Latvia's inclusion on the pro-development side even without a domestic reactor project under construction."
+      }
+    ]
+  },
+  {
+    "countryCode": "LT",
+    "countryName": "Lithuania",
+    "flag": "🇱🇹",
+    "primaryStatus": "phase-out completed",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Lithuania completed its nuclear phase-out when Ignalina's last reactor shut down at the end of 2009, although the country still evaluates future SMR options.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Lithuania",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/lithuania",
+        "publishedAt": "2026-02-11"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Lithuania",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/lithuania",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Lithuania's completed phase-out and continuing post-Ignalina context."
+      }
+    ]
+  },
+  {
+    "countryCode": "LU",
+    "countryName": "Luxembourg",
+    "flag": "🇱🇺",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Luxembourg has never operated a commercial nuclear power program and has no current domestic reactor plan.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Luxembourg does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "MT",
+    "countryName": "Malta",
+    "flag": "🇲🇹",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Malta has never operated a commercial nuclear power program and has no current reactor build path.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Malta does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "NL",
+    "countryName": "Netherlands",
+    "flag": "🇳🇱",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 1,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "The Netherlands reversed its earlier phase-out direction, plans two new reactors, and is also a signatory to the Declaration to Triple Nuclear Energy.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in the Netherlands",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/netherlands",
+        "publishedAt": "2024-03-25"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in the Netherlands",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-g-n/netherlands",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports the Netherlands' current operating fleet, policy reversal, and plan for new reactors."
+      }
+    ]
+  },
+  {
+    "countryCode": "PL",
+    "countryName": "Poland",
+    "flag": "🇵🇱",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Poland is preparing its first civilian nuclear program even though PRIS still shows zero reactors under construction as of 2026-03-12.",
+    "latestNews": [
+      {
+        "title": "Poland and Canada sign nuclear power cooperation agreement",
+        "url": "https://www.yahoo.com/news/poland-canada-sign-cooperation-agreement-121821852.html",
+        "publishedAt": "2025-01-28"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Poland",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/poland",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Poland's clear new-build policy direction despite the absence of a PRIS construction entry yet."
+      },
+      {
+        "title": "Reuters (syndicated): Poland and Canada sign nuclear power cooperation agreement",
+        "url": "https://www.yahoo.com/news/poland-canada-sign-cooperation-agreement-121821852.html",
+        "publisher": "Reuters",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Poland's continuing nuclear build-out policy and international project development."
+      }
+    ]
+  },
+  {
+    "countryCode": "PT",
+    "countryName": "Portugal",
+    "flag": "🇵🇹",
+    "primaryStatus": "no nuclear program",
+    "operatingReactors": 0,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Portugal has never operated a commercial nuclear power program and has no current domestic reactor build path.",
+    "latestNews": [],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Operational Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Portugal does not appear as an operating nuclear country; this supports the zero-reactor count and fallback bucket mapping."
+      }
+    ]
+  },
+  {
+    "countryCode": "RO",
+    "countryName": "Romania",
+    "flag": "🇷🇴",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 2,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Romania operates two CANDU units and is advancing both Cernavoda 3 and 4 and an SMR project, but PRIS does not yet record a Romanian unit under construction.",
+    "latestNews": [
+      {
+        "title": "Final Investment Decision taken for Romanian SMR project",
+        "url": "https://www.world-nuclear-news.org/articles/final-investment-decision-taken-for-romanias-smrs",
+        "publishedAt": "2026-02-13"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear News: Final Investment Decision taken for Romanian SMR project",
+        "url": "https://www.world-nuclear-news.org/articles/final-investment-decision-taken-for-romanias-smrs",
+        "publisher": "World Nuclear News",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Romania's active nuclear expansion pipeline and the chosen status bucket."
+      }
+    ]
+  },
+  {
+    "countryCode": "SK",
+    "countryName": "Slovakia",
+    "flag": "🇸🇰",
+    "primaryStatus": "building new reactors",
+    "operatingReactors": 5,
+    "reactorsUnderConstruction": 1,
+    "detailSummary": "Slovakia operates five reactors and still has one reactor under construction at Mochovce, which makes it a direct match for the building-new-reactors category.",
+    "latestNews": [
+      {
+        "title": "Slovak leader announces a deal with US on a new nuclear reactor",
+        "url": "https://apnews.com/article/cc77906f8eb305fc29a07f2937fc64d4",
+        "publishedAt": "2025-10-22"
+      }
+    ],
+    "sources": [
+      {
+        "title": "IAEA PRIS World Statistics: Under Construction Reactors by Country",
+        "url": "https://pris.iaea.org/PRIS/WorldStatistics/UnderConstructionReactorsByCountry.aspx",
+        "publisher": "IAEA PRIS",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Slovakia's under-construction reactor count and primary status."
+      }
+    ]
+  },
+  {
+    "countryCode": "SI",
+    "countryName": "Slovenia",
+    "flag": "🇸🇮",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 1,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Slovenia operates Krško and remains committed to the possible JEK 2 project, but no Slovenian reactor is currently under construction.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Slovenia",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/Countries-O-S/Slovenia",
+        "publishedAt": "2025-09-16"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Slovenia",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/Countries-O-S/Slovenia",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Slovenia's operating fleet and continued preparation for possible new build."
+      }
+    ]
+  },
+  {
+    "countryCode": "ES",
+    "countryName": "Spain",
+    "flag": "🇪🇸",
+    "primaryStatus": "phase-out in progress",
+    "operatingReactors": 7,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Spain still operates seven reactors, and the formal closure schedule to 2035 means its nuclear phase-out is still in progress even amid growing debate about whether to change course.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Spain",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/spain",
+        "publishedAt": "2026-01-12"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Spain",
+        "url": "https://world-nuclear.org/information-library/country-profiles/countries-o-s/spain",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Spain's operating fleet and established phase-out timeline."
+      }
+    ]
+  },
+  {
+    "countryCode": "SE",
+    "countryName": "Sweden",
+    "flag": "🇸🇪",
+    "primaryStatus": "pro-nuclear policy",
+    "operatingReactors": 6,
+    "reactorsUnderConstruction": 0,
+    "detailSummary": "Sweden's historic phase-out policy was repealed, the current government is explicitly promoting new nuclear capacity, and the country is a signatory to the Declaration to Triple Nuclear Energy.",
+    "latestNews": [
+      {
+        "title": "Nuclear Power in Sweden",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/Countries-O-S/Sweden",
+        "publishedAt": "2025-12-04"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Nuclear Association: Nuclear Power in Sweden",
+        "url": "https://world-nuclear.org/Information-Library/Country-Profiles/Countries-O-S/Sweden",
+        "publisher": "World Nuclear Association",
+        "accessedAt": "2026-03-12",
+        "note": "Supports Sweden's continuing operating fleet, policy reversal, and current new-build direction."
+      }
+    ]
+  }
+]

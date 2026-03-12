@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EU Nuclear Status Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Libre+Franklin:ital,wght@0,300;0,400;0,600;0,700;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body data-page="dashboard">
+    <div class="page-shell">
+      <header class="site-header">
+        <div>
+          <p class="eyebrow">Energy transition tracker</p>
+          <h1><span class="title-icon">🇪🇺</span> EU Nuclear Status Dashboard <span class="title-icon">⚛️</span></h1>
+          <p class="intro">
+            A snapshot of where EU member states stand on nuclear power as of
+            <span id="dataset-date">the latest dataset update</span>.
+          </p>
+        </div>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a class="nav-link is-active" href="index.html">Dashboard</a>
+          <a class="nav-link" href="sources.html">Sources</a>
+          <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="false">
+            Dark mode
+          </button>
+        </nav>
+      </header>
+
+      <main>
+        <section class="map-layout" aria-labelledby="map-heading-title">
+          <div class="map-detail detail-panel" id="map-detail" aria-live="polite"></div>
+
+          <div class="map-panel">
+            <div
+              id="map-container"
+              class="map-frame"
+              role="img"
+              aria-label="Clickable geographic map of EU countries colored by nuclear power status"
+            >
+              <div class="legend map-legend" id="legend" aria-label="Map legend"></div>
+              <div class="map-loading">Loading map…</div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="assets/js/main.js"></script>
+  </body>
+</html>

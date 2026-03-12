@@ -1,0 +1,4 @@
+interface:
+  display_name: "EU Nuclear Dataset Curation"
+  short_description: "Maintain the EU nuclear status dataset"
+  default_prompt: "Use $eu-nuclear-dataset-curation to update data/countries.json for the EU nuclear dashboard."
